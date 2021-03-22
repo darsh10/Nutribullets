@@ -1,2 +1,2 @@
 # Nutribullets
-Repository for code and data for our health and nutrition summarization research.
+Repository for code and data related to our health and nutrition summarization research.
