@@ -4,7 +4,7 @@
 
 # Dataset
 The Healthline dataset is sourced from https://www.healthline.com. You can download the processed and annotated version here https://drive.google.com/file/d/18ZU5VuiPC329c_BbyBLh2_m67vQ-jE3Y/view?usp=sharing.
-You might find this youtube link to understand accessing the dataset here https://youtu.be/wX20m2fIzTU.
+You might find this youtube link to get started with the dataset here https://youtu.be/wX20m2fIzTU.
 
 # Citation
 
