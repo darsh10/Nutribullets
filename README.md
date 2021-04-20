@@ -1,6 +1,10 @@
 # Nutribullets
--- Nutribullets Hybrid: Multi-document Health Summarization. NAACL 2021 (Contrastive Summarization Method) https://arxiv.org/abs/2104.03465
--- Nutri-bullets: Summarizing Health Studies by Composing Segments. AAAI 2021 (Dataset Introduced) https://arxiv.org/abs/2103.11921
+- Nutribullets Hybrid: Multi-document Health Summarization. NAACL 2021 (Contrastive Summarization Method) https://arxiv.org/abs/2104.03465
+- Nutri-bullets: Summarizing Health Studies by Composing Segments. AAAI 2021 (Dataset Introduced) https://arxiv.org/abs/2103.11921
+
+# Dataset
+The Healthline dataset is sourced from https://www.healthline.com. You can download the processed and annotated version here https://drive.google.com/file/d/18ZU5VuiPC329c_BbyBLh2_m67vQ-jE3Y/view?usp=sharing.
+You might find this youtube link to understand accessing the dataset here https://youtu.be/wX20m2fIzTU.
 
 # Citation
 
